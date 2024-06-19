@@ -2,6 +2,7 @@
 Project repository for "Evaluating the persuasive influence of political microtargeting with large language models" by Kobi Hackenburg and Helen Margetts. Code for the web application can be made available for replication or research efforts upon request. 
 
 ## Citation
+In 20224 this article was published in PNAS. You can cite our work using the following bibtex entry:
 ```bibtex
 @article{Hackenburg2024,
    abstract = {SignificanceAdvances in large language models (LLMs) have raised concerns over scalable, personalized political persuasion. Here, we integrate user data into GPT-4 prompts in real-time, facilitatin...},
